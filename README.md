@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+You can view the live demo at https://dayanandnandu.github.io/react-redux-app/
+
 ## Available Scripts
 
 Usage 
