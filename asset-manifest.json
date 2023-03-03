@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/users/static/css/main.f47284cb.css",
-    "main.js": "/users/static/js/main.c184997b.js",
-    "static/js/787.c4b4d841.chunk.js": "/users/static/js/787.c4b4d841.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/users/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/users/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/users/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/users/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/users/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/users/index.html",
-    "main.f47284cb.css.map": "/users/static/css/main.f47284cb.css.map",
-    "main.c184997b.js.map": "/users/static/js/main.c184997b.js.map",
-    "787.c4b4d841.chunk.js.map": "/users/static/js/787.c4b4d841.chunk.js.map"
+    "main.css": "/react-redux-app/static/css/main.edc8e64a.css",
+    "main.js": "/react-redux-app/static/js/main.ce9b75e0.js",
+    "static/js/787.c4b4d841.chunk.js": "/react-redux-app/static/js/787.c4b4d841.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/react-redux-app/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/react-redux-app/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/react-redux-app/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/react-redux-app/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/react-redux-app/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/react-redux-app/index.html",
+    "main.edc8e64a.css.map": "/react-redux-app/static/css/main.edc8e64a.css.map",
+    "main.ce9b75e0.js.map": "/react-redux-app/static/js/main.ce9b75e0.js.map",
+    "787.c4b4d841.chunk.js.map": "/react-redux-app/static/js/787.c4b4d841.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f47284cb.css",
-    "static/js/main.c184997b.js"
+    "static/css/main.edc8e64a.css",
+    "static/js/main.ce9b75e0.js"
   ]
 }
